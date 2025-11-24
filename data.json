@@ -1,0 +1,242 @@
+[{
+    "nome": "Access Point (AP)",
+    "descricao": "Um <strong>Access Point (AP)</strong> é um dispositivo de rede que cria uma rede local sem fio (WLAN), geralmente em um escritório ou grande edifício. Um AP se conecta a um roteador, switch ou hub com fio por meio de um cabo Ethernet e projeta um sinal Wi-Fi para uma área designada.",
+    "link": "https://www.cisco.com/c/pt_br/solutions/small-business/resource-center/networking/what-is-access-point.html"
+
+},
+
+{
+    "nome": "Switch",
+    "descricao": "Um <strong>Switch (SW)</strong> é um dispositivo de rede que permite concentrar a rede em um único ponto, como um HUB, porém, o Switch possui a inteligêmcia de identificar os destinatários dos dados compartilhados, garantindo a preservação dos pacotes e evitando problemas no envio e recebimento dos mesmos.",
+    "link": "https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-network-switch/"
+},
+
+{
+    "nome": "Roteador",
+    "descricao": "Um <strong>Roteador</strong> é um dispositivo que encaminha pacotes de dados entre redes de computadores, criando um conjunto de redes de sobreposição. Ele gerencia o tráfego entre essas redes para permitir que vários dispositivos usem a mesma conexão de internet.",
+    "link": "https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-router/"
+},
+
+{
+    "nome": "Firewall",
+    "descricao": "Um <strong>Firewall</strong> é um sistema de segurança de rede que monitora e controla o tráfego de rede com base em regras de segurança predeterminadas. Ele atua como uma barreira entre uma rede confiável e uma rede não confiável, como a internet, para bloquear tráfego malicioso e impedir acesso não autorizado.",
+    "link": "https://www.cloudflare.com/pt-br/learning/ddos/glossary/what-is-a-firewall/"
+},
+
+{
+    "nome": "Servidor",
+    "descricao": "Um <strong>Servidor</strong> é um computador ou software que fornece serviços a uma rede de computadores, chamada de cliente. Ele pode processar aplicações, armazenar dados e prestar diversos tipos de serviços, como hospedagem de sites, e-mails e arquivos.",
+    "link": "https://www.controle.net/faq/o-que-e-um-servidor-em-computacao"
+},
+
+{
+    "nome": "Patch Panel",
+    "descricao": "Um <strong>Patch Panel</strong> é um dispositivo que possui várias portas para ajudar a organizar um grupo de cabos. Ele conecta e gerencia os cabos de LAN de entrada e saída, facilitando a conexão, o teste e o redirecionamento de circuitos em uma rede.",
+    "link": "https://www.techtarget.com/searchnetworking/definition/patch-panel"
+},
+{
+    "nome": "Hub",
+    "descricao": "Um <strong>Hub</strong>, ou concentrador, é um dispositivo que centraliza a conexão de vários computadores em uma rede. Ele atua na camada física (camada 1) do modelo OSI, retransmitindo os pacotes de dados que recebe para todas as suas portas, sem filtrar o tráfego, o que pode gerar congestionamento na rede.",
+    "link": "https://www.controle.net/faq/hub-ou-switch-quais-as-principais-diferencas"
+},
+
+{
+    "nome": "Modem",
+    "descricao": "Um <strong>Modem</strong> (modulador-demodulador) é um dispositivo que converte os sinais digitais do seu computador em sinais analógicos para transmissão por meio de uma linha telefônica ou de cabo, e vice-versa. Ele é essencial para conectar sua rede local à internet fornecida pelo seu provedor de serviços (ISP).",
+    "link": "https://www.xfinity.com/learn/internet-service/modem-vs-router"
+},
+
+{
+    "nome": "Nobreak (UPS)",
+    "descricao": "Um <strong>Nobreak</strong>, também conhecido como UPS (Fonte de Alimentação Ininterrupta), fornece energia de emergência para os equipamentos quando a fonte principal falha. Além de garantir a continuidade durante quedas de energia, ele também protege os aparelhos contra surtos e variações de tensão.",
+    "link": "https://www.se.com/br/pt/work/products/product-launch/ups/"
+},
+
+{
+    "nome": "Gateway",
+    "descricao": "Um <strong>Gateway</strong> é um dispositivo ou software que atua como um 'portão' entre duas redes distintas, permitindo a comunicação entre elas mesmo que usem protocolos diferentes. Ele funciona como um tradutor, convertendo os dados de um formato para outro para garantir a interoperabilidade.",
+    "link": "https://www.cloudflare.com/pt-br/learning/network-layer/what-is-a-gateway/"
+},
+{
+    "nome": "Rack de TI",
+    "descricao": "Um <strong>Rack de TI</strong> é uma estrutura de metal, semelhante a um gabinete, usada para armazenar e organizar equipamentos de TI como servidores, switches, patch panels e outros componentes de rede. Eles otimizam o espaço, facilitam o gerenciamento de cabos e ajudam na ventilação dos equipamentos.",
+    "link": "https://www.vertiv.com/pt-BR/products-catalog/racks-and-containment/racks-and-cabinets/"
+},
+
+{
+    "nome": "Cisco DNA Center",
+    "descricao": "Um <strong>controlador de software-defined networking (SDN)</strong> para gerenciamento e automação de redes corporativas Cisco, desde o campus até a filial.",
+    "link": "https://www.cisco.com/site/us/en/products/networking/network-management/dna-center/index.html"
+  },
+  {
+    "nome": "VMware NSX",
+    "descricao": "Uma <strong>plataforma de virtualização de rede e segurança</strong> que permite a criação de redes lógicas e micro-segmentação diretamente no software do hypervisor.",
+    "link": "https://www.vmware.com/products/nsx.html"
+  },
+  {
+    "nome": "AWS Transit Gateway",
+    "descricao": "Um <strong>serviço que centraliza a conectividade de redes em nuvem</strong>, atuando como um hub para conectar VPCs e redes on-premises da AWS.",
+    "link": "https://aws.amazon.com/transit-gateway/"
+  },
+  {
+    "nome": "NGINX Plus",
+    "descricao": "Um <strong>load balancer, servidor web e proxy reverso</strong> de alto desempenho com recursos empresariais avançados, incluindo health checks dinâmicos e monitoramento.",
+    "link": "https://www.nginx.com/products/nginx-plus/"
+  },
+  {
+    "nome": "Ansible",
+    "descricao": "Uma <strong>ferramenta de automação de código aberto</strong> usada para provisionamento de software, gerenciamento de configuração e implantação de aplicativos e infraestrutura de rede.",
+    "link": "https://www.ansible.com/"
+  },
+  {
+    "nome": "Prometheus",
+    "descricao": "Um <strong>sistema de monitoramento e alerta de código aberto</strong> que coleta métricas de sistemas e serviços em infraestruturas modernas e containers.",
+    "link": "https://prometheus.io/"
+  },
+  {
+    "nome": "Arista EOS",
+    "descricao": "Um <strong>Sistema Operacional Extensível (EOS)</strong> baseado em Linux usado em switches de data center da Arista Networks, conhecido por sua programabilidade e resiliência.",
+    "link": "https://www.arista.com/en/products/software/eos"
+  },
+  {
+    "nome": "Palo Alto Networks NGFW",
+    "descricao": "Um <strong>Firewall de Próxima Geração (NGFW)</strong> focado em controle baseado em aplicação e usuário, e prevenção de ameaças avançadas.",
+    "link": "https://www.paloaltonetworks.com/network-security/next-generation-firewall"
+  },
+  {
+    "nome": "Kubernetes CNI",
+    "descricao": "<strong>Container Network Interface</strong>, um padrão que define a interface entre ferramentas de orquestração de containers (como Kubernetes) e plugins de rede.",
+    "link": "https://github.com/containernetworking/cni"
+  },
+  {
+    "nome": "BGP (Border Gateway Protocol)",
+    "descricao": "O <strong>principal protocolo de roteamento</strong> utilizado para troca de informações de alcance entre Sistemas Autônomos (AS) na Internet.",
+    "link": "https://www.ietf.org/standards/defined-protocols/bgp/"
+  },
+  {
+    "nome": "Wi-Fi 6E",
+    "descricao": "Uma <strong>extensão do padrão Wi-Fi 6</strong> que opera na faixa de frequência de 6 GHz, oferecendo maior capacidade, menor latência e menos interferência.",
+    "link": "https://www.wi-fi.org/discover-wi-fi/wi-fi-6e"
+  },
+  {
+    "nome": "RDMA (Remote Direct Memory Access)",
+    "descricao": "Uma <strong>tecnologia que permite que um computador acesse a memória de outro</strong> sem envolver o processador do sistema operacional, crucial para redes HPC e AI.",
+    "link": "https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/using-rdma_configuring-and-managing-networking"
+  },
+  {
+    "nome": "MPLS (Multi-Protocol Label Switching)",
+    "descricao": "Uma <strong>técnica de encaminhamento de pacotes</strong> que utiliza rótulos para acelerar o tráfego de rede e permitir engenharia de tráfego, amplamente usada em redes de provedores.",
+    "link": "https://www.ietf.org/standards/defined-protocols/mpls/"
+  },
+  {
+    "nome": "MEC (Multi-access Edge Computing)",
+    "descricao": "Uma <strong>arquitetura de rede</strong> que move o processamento de dados e serviços de nuvem para a borda da rede, perto do usuário final, para reduzir a latência.",
+    "link": "https://www.etsi.org/technologies/multi-access-edge-computing"
+  },
+  {
+    "nome": "Zscaler ZIA",
+    "descricao": "<strong>Zscaler Internet Access</strong>, uma solução de segurança de borda (Cloud Security Gateway) que fornece inspeção de tráfego e proteção baseada em Zero Trust.",
+    "link": "https://www.zscaler.com/products/zscaler-internet-access"
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Uma <strong>ferramenta de Infraestrutura como Código (IaC)</strong> que permite provisionar e gerenciar infraestruturas de rede e nuvem usando arquivos de configuração declarativos.",
+    "link": "https://www.terraform.io/"
+  },
+  {
+    "nome": "gNMI (gRPC Network Management Interface)",
+    "descricao": "Um <strong>protocolo baseado em gRPC</strong> para configuração de dispositivos de rede e coleta de telemetria de forma eficiente, substituindo SNMP em redes modernas.",
+    "link": "https://github.com/openconfig/gnmi"
+  },
+  {
+    "nome": "Fiber Channel",
+    "descricao": "Uma <strong>tecnologia de rede de alta velocidade</strong> usada principalmente para conectar servidores a dispositivos de armazenamento em Storage Area Networks (SAN).",
+    "link": "https://www.snia.org/education/what-is-fiber-channel"
+  },
+  {
+    "nome": "DDoS Mitigation Services",
+    "descricao": "<strong>Serviços especializados</strong>, geralmente baseados em nuvem, que protegem redes contra ataques de Negação de Serviço Distribuída (DDoS).",
+    "link": "https://cloud.google.com/ddos-protection"
+  },
+  {
+    "nome": "KVM (Kernel-based Virtual Machine)",
+    "descricao": "Uma <strong>solução de virtualização completa</strong> integrada ao kernel Linux, usada como hypervisor para rodar máquinas virtuais em sistemas x86.",
+    "link": "https://www.linux-kvm.org/page/Main_Page"
+  },
+  {
+    "nome": "EVPN-VXLAN",
+    "descricao": "Uma <strong>tecnologia de Data Center Fabric</strong> que combina VXLAN (para tunelamento Layer 2) com EVPN (como plano de controle Layer 3), oferecendo escalabilidade e mobilidade.",
+    "link": "https://www.cisco.com/c/en/us/products/switches/what-is-evpn-vxlan.html"
+  },
+  {
+    "nome": "Infoblox DDI",
+    "descricao": "Uma <strong>solução integrada de gerenciamento de DNS, DHCP e IPAM (DDI)</strong>, crítica para o controle e automação de endereçamento IP em grandes redes.",
+    "link": "https://www.infoblox.com/products/ddi/"
+  },
+  {
+    "nome": "NetFlow/IPFIX",
+    "descricao": "<strong>Protocolos usados para coletar informações de fluxo de tráfego de rede</strong> (metadados de comunicação), essenciais para monitoramento e análise de segurança.",
+    "link": "https://www.ietf.org/standards/defined-protocols/ipfix/"
+  },
+  {
+    "nome": "PTP (Precision Time Protocol)",
+    "descricao": "Um <strong>protocolo usado para sincronizar relógios</strong> em uma rede de computadores com alta precisão, crucial para telecomunicações, finanças e data centers.",
+    "link": "https://ieee-sa.com/standards/ptp"
+  },
+  {
+    "nome": "Red Hat Enterprise Linux (RHEL)",
+    "descricao": "Uma <strong>distribuição Linux de nível empresarial</strong> amplamente utilizada como sistema operacional de servidor e plataforma para infraestrutura de nuvem híbrida.",
+    "link": "https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Uma <strong>plataforma de código aberto</strong> que automatiza a implantação de aplicativos dentro de contêineres de software, garantindo que eles funcionem de forma consistente em diferentes ambientes.",
+    "link": "https://www.docker.com/"
+  },
+  {
+    "nome": "Kubernetes",
+    "descricao": "Um <strong>sistema de orquestração de contêineres de código aberto</strong> para automatizar a implantação, o dimensionamento e o gerenciamento de aplicativos em contêineres.",
+    "link": "https://kubernetes.io/"
+  },
+  {
+    "nome": "Git",
+    "descricao": "Um <strong>sistema de controle de versão distribuído</strong> de código aberto, projetado para lidar com tudo, desde projetos pequenos a muito grandes, com velocidade e eficiência.",
+    "link": "https://git-scm.com/"
+  },
+  {
+    "nome": "Jenkins",
+    "descricao": "Um <strong>servidor de automação de código aberto</strong> que ajuda a automatizar as partes do desenvolvimento de software relacionadas à construção, teste e implantação, facilitando a integração contínua (CI) e a entrega contínua (CD).",
+    "link": "https://www.jenkins.io/"
+  },
+  {
+    "nome": "Grafana",
+    "descricao": "Uma <strong>plataforma de análise e monitoramento de código aberto</strong> que permite consultar, visualizar, alertar e entender suas métricas, não importa onde elas estejam armazenadas.",
+    "link": "https://grafana.com/"
+  },
+  {
+    "nome": "Zero Trust",
+    "descricao": "Um <strong>modelo de segurança de rede</strong> baseado no princípio de 'nunca confiar, sempre verificar', que trata todas as tentativas de acesso à rede como não confiáveis até que sua identidade seja verificada.",
+    "link": "https://www.cloudflare.com/pt-br/learning/security/glossary/what-is-zero-trust/"
+  },
+  {
+    "nome": "SASE (Secure Access Service Edge)",
+    "descricao": "Uma <strong>arquitetura de rede e segurança baseada em nuvem</strong> que combina recursos de WAN e segurança, como SD-WAN e Firewall as a Service (FWaaS), em um único serviço entregue na nuvem.",
+    "link": "https://www.paloaltonetworks.com/sase"
+  },
+  {
+    "nome": "SD-WAN (Software-Defined WAN)",
+    "descricao": "Uma <strong>abordagem definida por software para gerenciar uma WAN</strong>. Ela simplifica o gerenciamento e a operação de uma WAN, separando o hardware de rede de seu mecanismo de controle.",
+    "link": "https://www.cisco.com/c/pt_br/solutions/enterprise-networks/sd-wan/what-is-sd-wan.html"
+  },
+  {
+    "nome": "API (Application Programming Interface)",
+    "descricao": "Uma <strong>Interface de Programação de Aplicações</strong> é um conjunto de regras e definições que permite que diferentes aplicações de software se comuniquem entre si.",
+    "link": "https://aws.amazon.com/pt/what-is/api/"
+  },
+  {
+    "nome": "Load Balancer",
+    "descricao": "Um <strong>balanceador de carga</strong> é um dispositivo ou software que distribui o tráfego de rede ou de aplicativos por vários servidores, melhorando a capacidade de resposta e a disponibilidade dos aplicativos.",
+    "link": "https://www.cloudflare.com/pt-br/learning/performance/what-is-load-balancing/"
+  }
+
+]
